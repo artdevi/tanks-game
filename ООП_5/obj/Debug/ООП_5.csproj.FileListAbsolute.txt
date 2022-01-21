@@ -1,0 +1,20 @@
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.csprojAssemblyReference.cache
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.Form1.resources
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.Properties.Resources.resources
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.csproj.GenerateResource.cache
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.csproj.CoreCompileInputs.cache
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\bin\Debug\ООП_5.exe.config
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\bin\Debug\ООП_5.exe
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\bin\Debug\ООП_5.pdb
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.exe
+C:\Users\Art Devil\source\repos\ООП_5\ООП_5\obj\Debug\ООП_5.pdb
+D:\ООП_5\ООП_5\bin\Debug\ООП_5.exe.config
+D:\ООП_5\ООП_5\bin\Debug\ООП_5.exe
+D:\ООП_5\ООП_5\bin\Debug\ООП_5.pdb
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.csprojAssemblyReference.cache
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.Form1.resources
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.Properties.Resources.resources
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.csproj.GenerateResource.cache
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.csproj.CoreCompileInputs.cache
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.exe
+D:\ООП_5\ООП_5\obj\Debug\ООП_5.pdb
